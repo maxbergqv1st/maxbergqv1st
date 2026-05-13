@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DITT_ANVÄNDARNAMN&layout=compact&theme=dark)
 <!--
 **maxbergqv1st/maxbergqv1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
